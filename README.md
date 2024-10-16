@@ -2,7 +2,6 @@
 
 An AI-powered Chrome extension that integrates seamlessly with LinkedIn to help you generate intelligent, context-aware replies in LinkedIn messages with ease. Whether you're responding to a connection request, or engaging in a professional conversation, ChatGPT Writer enhances your productivity by providing suggestions directly in the chat window.
 
-![Demo image](image.png)
 
 ## Features
 
