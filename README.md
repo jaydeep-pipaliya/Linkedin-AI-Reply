@@ -55,14 +55,6 @@ An AI-powered Chrome extension that integrates seamlessly with LinkedIn to help 
 4. Enter your prompt and click **Generate** to create a response.
 5. Click **Insert** to add the response to the message input field.
 
-## Screenshots
-
-![Screenshot 1](link-to-screenshot1)
-*The AI icon appears in LinkedIn's messaging interface.*
-
-![Screenshot 2](link-to-screenshot2)
-*Clean and responsive design for generating AI-powered responses.*
-
 ## Contributing
 
 We welcome contributions from the community. Please follow these steps to contribute:
