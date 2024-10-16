@@ -4,6 +4,10 @@ An AI-powered Chrome extension that integrates seamlessly with LinkedIn to help 
 
 ![Demo image](image.png)
 
+
+https://github.com/user-attachments/assets/bb460e54-aa8b-4908-90c0-afdfac4b293d
+
+
 ## Features
 
 - **AI-Driven Responses**: Automatically generates responses using GPT-powered AI based on your prompt.
