@@ -4,9 +4,7 @@ An AI-powered Chrome extension that integrates seamlessly with LinkedIn to help 
 
 ![Demo image](image.png)
 
-
-https://github.com/user-attachments/assets/bb460e54-aa8b-4908-90c0-afdfac4b293d
-
+https://github.com/user-attachments/assets/e08b32f6-a25a-40c7-8f1f-924bd97c682c
 
 ## Features
 
